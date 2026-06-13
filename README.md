@@ -113,7 +113,7 @@ charlotte = {
 | [graphicdesigner.dev](https://graphicdesigner.dev) | Creative + Tech Portfolio |
 | [photohacklovers.com](https://photohacklovers.com) | Digital assets & creative downloads |
 | [graphicdesigner4hire.com](https://graphicdesigner4hire.com) | Freelance web & design work |
-| [artfreakshirts.com](https://artfreakshirts.com) | E-commerce store |
+
 
 ---
 
