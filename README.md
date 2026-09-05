@@ -35,12 +35,12 @@ A lightweight WordPress security and privacy plugin built from a real before-and
 </td>
 <td width="50%" valign="top">
 
-### 🧪 PenTest+ Study Guides
-Hands-on PenTest+ notes, tool references, workflows, and exam-focused study material.
+### 💿 Y2K DeskCal
+A cross-platform desktop calendar app built with Electron + React, featuring reminders, todos, tray controls, snooze/dismiss notifications, and a custom Y2K interface.
 
-**Focus:** recon, enumeration, scanning, exploitation, reporting.
+**Focus:** desktop app development, Electron, React, local storage, notifications.
 
-[![Open Repo](https://img.shields.io/badge/OPEN_REPO-PENTEST_STUDY_GUIDES-5F735B?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der/pentest-study-guides)
+[![Open Repo](https://img.shields.io/badge/OPEN_REPO-Y2K_DESKCAL-5F735B?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der/y2k-deskcal)
 
 </td>
 </tr>
@@ -48,22 +48,22 @@ Hands-on PenTest+ notes, tool references, workflows, and exam-focused study mate
 <tr>
 <td width="50%" valign="top">
 
+### 🧪 PenTest+ Study Guides
+Hands-on PenTest+ notes, tool references, workflows, and exam-focused study material.
+
+**Focus:** recon, enumeration, scanning, exploitation, reporting.
+
+[![Open Repo](https://img.shields.io/badge/OPEN_REPO-PENTEST_STUDY_GUIDES-D8B35C?style=for-the-badge&logo=github&logoColor=2B2118)](https://github.com/bettyc0der/pentest-study-guides)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔎 OSINT Cheat Sheet
 OSINT references and practical investigation resources for research and security work.
 
 **Focus:** investigation, recon, public-source research.
 
-[![Open Repo](https://img.shields.io/badge/OPEN_REPO-OSINT_CHEAT_SHEET-D8B35C?style=for-the-badge&logo=github&logoColor=2B2118)](https://github.com/bettyc0der/OSINT-Cheat-sheet)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Cybersecurity Coursework
-Selected labs, coursework, notes, and hands-on security exercises.
-
-**Focus:** applied cybersecurity, labs, documentation.
-
-[![Open Repo](https://img.shields.io/badge/OPEN_REPO-CYBERSECURITY_COURSEWORK-2B2118?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der/cybersecurity-coursework)
+[![Open Repo](https://img.shields.io/badge/OPEN_REPO-OSINT_CHEAT_SHEET-2B2118?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der/OSINT-Cheat-sheet)
 
 </td>
 </tr>
