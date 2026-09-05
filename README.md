@@ -4,9 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=435844&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+BettyCoder+%F0%9F%91%8B;CySA%2B+Certified+Cybersecurity+Analyst;Cybersecurity+%7C+SOC+%7C+Investigation;Code+Secure.+Stay+Curious.)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-bettyc0der-435844?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der)
-[![Cyber Blog](https://img.shields.io/badge/Cyber_Blog-Read-5F735B?style=for-the-badge&logo=wordpress&logoColor=F3E3BE)](https://cyber.charlottesalcedo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2B2118?style=for-the-badge&logo=linkedin&logoColor=F3E3BE)](https://linkedin.com/in/charlottesalcedo)
+### Find Me Online
+
+[![Website](https://img.shields.io/badge/WEBSITE-CYBER_BLOG-435844?style=for-the-badge&logo=wordpress&logoColor=F3E3BE)](https://cyber.charlottesalcedo.com/)
+[![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-PROFILE-5F735B?style=for-the-badge&logo=hackthebox&logoColor=F3E3BE)](https://profile.hackthebox.com/profile/019d8634-67a7-71b7-8688-3f17313fa8ee?utm_medium=copy_url)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-BETTYC0DER-D8B35C?style=for-the-badge&logo=tryhackme&logoColor=2B2118)](https://tryhackme.com/p/BETTYC0DER)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-BETTYCODER-2B2118?style=for-the-badge&logo=linkedin&logoColor=F3E3BE)](https://www.linkedin.com/in/bettycoder/)
+[![GitHub](https://img.shields.io/badge/GITHUB-BETTYC0DER-435844?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der)
 
 </div>
 
@@ -14,13 +18,55 @@
 
 ## 📌 Featured Projects
 
-> My native GitHub pinned repositories stay pinned on my profile. These are the projects I want visitors to see immediately in the README.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![WordPress Privacy Hardening](https://github-readme-stats.vercel.app/api/pin/?username=bettyc0der&repo=bettyc0der-wordpress-privacy-hardening&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)](https://github.com/bettyc0der/bettyc0der-wordpress-privacy-hardening)
-[![PenTest Study Guides](https://github-readme-stats.vercel.app/api/pin/?username=bettyc0der&repo=pentest-study-guides&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)](https://github.com/bettyc0der/pentest-study-guides)
+### 🛡️ WordPress Privacy Hardening
+A lightweight WordPress security and privacy plugin built from a real before-and-after hardening lab.
 
-[![OSINT Cheat Sheet](https://github-readme-stats.vercel.app/api/pin/?username=bettyc0der&repo=OSINT-Cheat-sheet&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)](https://github.com/bettyc0der/OSINT-Cheat-sheet)
-[![Cybersecurity Coursework](https://github-readme-stats.vercel.app/api/pin/?username=bettyc0der&repo=cybersecurity-coursework&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)](https://github.com/bettyc0der/cybersecurity-coursework)
+**Focus:** REST user enumeration, XML-RPC, author enumeration, fingerprint reduction.
+
+[![Open Repo](https://img.shields.io/badge/OPEN_REPO-WORDPRESS_HARDENING-435844?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der/bettyc0der-wordpress-privacy-hardening)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 PenTest+ Study Guides
+Hands-on PenTest+ notes, tool references, workflows, and exam-focused study material.
+
+**Focus:** recon, enumeration, scanning, exploitation, reporting.
+
+[![Open Repo](https://img.shields.io/badge/OPEN_REPO-PENTEST_STUDY_GUIDES-5F735B?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der/pentest-study-guides)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 OSINT Cheat Sheet
+OSINT references and practical investigation resources for research and security work.
+
+**Focus:** investigation, recon, public-source research.
+
+[![Open Repo](https://img.shields.io/badge/OPEN_REPO-OSINT_CHEAT_SHEET-D8B35C?style=for-the-badge&logo=github&logoColor=2B2118)](https://github.com/bettyc0der/OSINT-Cheat-sheet)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Cybersecurity Coursework
+Selected labs, coursework, notes, and hands-on security exercises.
+
+**Focus:** applied cybersecurity, labs, documentation.
+
+[![Open Repo](https://img.shields.io/badge/OPEN_REPO-CYBERSECURITY_COURSEWORK-2B2118?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der/cybersecurity-coursework)
+
+</td>
+</tr>
+</table>
+
+> GitHub places the native **Pinned repositories** section below a profile README and does not provide a setting to move it above the README. The featured project cards above mirror your important work at the top so visitors see it immediately.
 
 ---
 
@@ -32,7 +78,7 @@ bettycoder = {
     "education"  : "M.S. Cybersecurity @ WGU",
     "certs"      : ["CompTIA CySA+", "ISC² CC", "PenTest+ (in progress)"],
     "background" : ["Web Development", "Graphic Design", "Fraud / Identity Investigation"],
-    "labs"       : ["Kali Linux", "Hack The Box", "WGU Cybersecurity Labs"],
+    "labs"       : ["Kali Linux", "Hack The Box", "TryHackMe", "WGU Cybersecurity Labs"],
     "currently"  : "Building hands-on security projects and documenting what I learn"
 }
 ```
@@ -43,9 +89,9 @@ bettycoder = {
 
 <div align="center">
 
-![CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-Certified-435844?style=for-the-badge&logo=comptia&logoColor=F3E3BE)
-![ISC2 CC](https://img.shields.io/badge/ISC%C2%B2_CC-Certified-5F735B?style=for-the-badge&logo=isc2&logoColor=F3E3BE)
-![PenTest+](https://img.shields.io/badge/PenTest%2B-In_Progress-D8B35C?style=for-the-badge&logo=comptia&logoColor=2B2118)
+![CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-CERTIFIED-435844?style=for-the-badge&logo=comptia&logoColor=F3E3BE)
+![ISC2 CC](https://img.shields.io/badge/ISC%C2%B2_CC-CERTIFIED-5F735B?style=for-the-badge&logo=isc2&logoColor=F3E3BE)
+![PenTest+](https://img.shields.io/badge/PenTest%2B-IN_PROGRESS-D8B35C?style=for-the-badge&logo=comptia&logoColor=2B2118)
 
 </div>
 
@@ -83,30 +129,33 @@ bettycoder = {
 
 ## 🔬 Hands-On Work
 
-- **WordPress Privacy Hardening**: enumerated a live authorized WordPress target, documented exposure, wrote a hardening plugin, and retested the fixes.
-- **Web Enumeration**: Gobuster, DirBuster, FFUF, WPScan, curl, Burp Suite.
-- **Network Analysis**: Wireshark, tcpdump, Nmap/NSE, service enumeration.
-- **SOC / SIEM Practice**: alert triage, IOC analysis, Wazuh workflows.
-- **CTF Practice**: Hack The Box and authorized cybersecurity labs.
+- **WordPress Privacy Hardening:** enumerated an authorized WordPress target, documented exposure, wrote a hardening plugin, and retested the fixes.
+- **Web Enumeration:** Gobuster, DirBuster, FFUF, WPScan, curl, Burp Suite.
+- **Network Analysis:** Wireshark, tcpdump, Nmap/NSE, service enumeration.
+- **SOC / SIEM Practice:** alert triage, IOC analysis, Wazuh workflows.
+- **CTF Practice:** Hack The Box, TryHackMe, and authorized cybersecurity labs.
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Security Profiles & Affiliations
+
+| Platform | Profile |
+|---|---|
+| 🌐 Personal Cybersecurity Site | [cyber.charlottesalcedo.com](https://cyber.charlottesalcedo.com/) |
+| 🟩 Hack The Box | [BettyCoder HTB Profile](https://profile.hackthebox.com/profile/019d8634-67a7-71b7-8688-3f17313fa8ee?utm_medium=copy_url) |
+| 🔴 TryHackMe | [BETTYC0DER](https://tryhackme.com/p/BETTYC0DER) |
+| 💼 LinkedIn | [BettyCoder](https://www.linkedin.com/in/bettycoder/) |
+| 🐙 GitHub | [@bettyc0der](https://github.com/bettyc0der) |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-
-![BettyCoder GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettyc0der&show_icons=true&hide_border=false&include_all_commits=true&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bettyc0der&layout=compact&hide_border=false&bg_color=F3E3BE&title_color=435844&text_color=2B2118&border_color=5F735B)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bettyc0der&hide_border=false&background=F3E3BE&border=5F735B&stroke=435844&ring=D8B35C&fire=C45A3D&currStreakNum=2B2118&sideNums=2B2118&currStreakLabel=435844&sideLabels=435844&dates=5F735B)](https://git.io/streak-stats)
 
-</div>
-
----
-
-<div align="center">
-
+![GitHub Followers](https://img.shields.io/github/followers/bettyc0der?style=for-the-badge&label=FOLLOWERS&labelColor=2B2118&color=435844&logo=github&logoColor=F3E3BE)
 ![Profile Views](https://komarev.com/ghpvc/?username=bettyc0der&color=435844&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Code secure. Stay curious.**
