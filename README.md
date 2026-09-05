@@ -1,32 +1,39 @@
 <div align="center">
 
-<!-- Banner — upload charlotte-salcedo-Cyber-Security-Analyst-HIGH.png to your repo's root and this will display automatically -->
-![Charlotte Salcedo Banner](charlotte-salcedo-Cyber-Security-Analyst-HIGH.png)
+![BettyCoder vintage cybersecurity banner](assets/bettycoder-profile-banner.svg)
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Charlotte+Salcedo+%F0%9F%91%8B;CySA%2B+Certified+Cybersecurity+Analyst;IT+Operations+%7C+SOC+%7C+Fraud+Investigation;Turning+Experience+Into+Expertise+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=435844&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+BettyCoder+%F0%9F%91%8B;CySA%2B+Certified+Cybersecurity+Analyst;Cybersecurity+%7C+SOC+%7C+Investigation;Code+Secure.+Stay+Curious.)](https://git.io/typing-svg)
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlottesalcedo)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salcedocharlotte)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.charlottesalcedo.com)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cpyan4@wgu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-bettyc0der-435844?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der)
+[![Cyber Blog](https://img.shields.io/badge/Cyber_Blog-Read-5F735B?style=for-the-badge&logo=wordpress&logoColor=F3E3BE)](https://cyber.charlottesalcedo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2B2118?style=for-the-badge&logo=linkedin&logoColor=F3E3BE)](https://linkedin.com/in/charlottesalcedo)
 
 </div>
 
 ---
 
-## 🔐 About Me
+## 📌 Featured Projects
+
+> My native GitHub pinned repositories stay pinned on my profile. These are the projects I want visitors to see immediately in the README.
+
+[![WordPress Privacy Hardening](https://github-readme-stats.vercel.app/api/pin/?username=bettyc0der&repo=bettyc0der-wordpress-privacy-hardening&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)](https://github.com/bettyc0der/bettyc0der-wordpress-privacy-hardening)
+[![PenTest Study Guides](https://github-readme-stats.vercel.app/api/pin/?username=bettyc0der&repo=pentest-study-guides&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)](https://github.com/bettyc0der/pentest-study-guides)
+
+[![OSINT Cheat Sheet](https://github-readme-stats.vercel.app/api/pin/?username=bettyc0der&repo=OSINT-Cheat-sheet&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)](https://github.com/bettyc0der/OSINT-Cheat-sheet)
+[![Cybersecurity Coursework](https://github-readme-stats.vercel.app/api/pin/?username=bettyc0der&repo=cybersecurity-coursework&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)](https://github.com/bettyc0der/cybersecurity-coursework)
+
+---
+
+## 🔐 About BettyCoder
 
 ```python
-charlotte = {
-    "role"        : "IT Operations | Cybersecurity Analyst",
-    "location"    : "Tampa, FL (Remote)",
-    "education"   : "M.S. Cybersecurity @ WGU (Expected 2027)",
-    "certs"       : ["CySA+", "ISC² CC", "PenTest+ (in progress)", "SecurityX (in progress)"],
-    "experience"  : ["USAA — Fraud & Identity Investigation", "CenturyLink — IT Support (6 years)"],
-    "superpower"  : "Spotting fake websites faster than most tools can scan them 🕵️",
-    "currently"   : "Pursuing SOC Analyst roles & leveling up daily"
+bettycoder = {
+    "focus"      : ["SOC", "Cybersecurity Investigation", "Blue Team", "GRC"],
+    "education"  : "M.S. Cybersecurity @ WGU",
+    "certs"      : ["CompTIA CySA+", "ISC² CC", "PenTest+ (in progress)"],
+    "background" : ["Web Development", "Graphic Design", "Fraud / Identity Investigation"],
+    "labs"       : ["Kali Linux", "Hack The Box", "WGU Cybersecurity Labs"],
+    "currently"  : "Building hands-on security projects and documenting what I learn"
 }
 ```
 
@@ -36,84 +43,51 @@ charlotte = {
 
 <div align="center">
 
-[![CySA+ Certificate](https://img.shields.io/badge/CompTIA_CySA%2B_%E2%9C%85_VERIFIED-7C3AED?style=for-the-badge&logo=comptia&logoColor=white)](http://verify.CompTIA.org)
-[![ISC2 CC Certificate](https://img.shields.io/badge/ISC²_CC_%E2%9C%85_VERIFIED-4C1D95?style=for-the-badge&logo=isc2&logoColor=white)](https://www.isc2.org/MemberVerification)
-[![PenTest+](https://img.shields.io/badge/PenTest%2B_%F0%9F%94%84_In_Progress-6D28D9?style=for-the-badge&logo=comptia&logoColor=white)](https://www.charlottesalcedo.com)
-[![SecurityX](https://img.shields.io/badge/SecurityX_%F0%9F%94%84_In_Progress-3B0764?style=for-the-badge&logo=comptia&logoColor=white)](https://www.charlottesalcedo.com)
-
-> **CySA+ Verify Code:** `d79aeb3927d04cb7a1bfdca957503301` · **ISC² Cert #:** `2620327`
-
-[![Download Resume](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_Resume-A855F7?style=for-the-badge&logoColor=white)](https://www.charlottesalcedo.com/resume)
+![CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-Certified-435844?style=for-the-badge&logo=comptia&logoColor=F3E3BE)
+![ISC2 CC](https://img.shields.io/badge/ISC%C2%B2_CC-Certified-5F735B?style=for-the-badge&logo=isc2&logoColor=F3E3BE)
+![PenTest+](https://img.shields.io/badge/PenTest%2B-In_Progress-D8B35C?style=for-the-badge&logo=comptia&logoColor=2B2118)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Security Stack
 
-**Security**
+**Security & Analysis**
 
-![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-7C3AED?style=for-the-badge&logo=elastic&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-6D28D9?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-4C1D95?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-7C3AED?style=for-the-badge&logo=linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-6D28D9?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-4C1D95?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-435844?style=for-the-badge&logo=elastic&logoColor=F3E3BE)
+![Wireshark](https://img.shields.io/badge/Wireshark-5F735B?style=for-the-badge&logo=wireshark&logoColor=F3E3BE)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-2B2118?style=for-the-badge&logo=kali-linux&logoColor=F3E3BE)
+![Nmap](https://img.shields.io/badge/Nmap-435844?style=for-the-badge&logo=linux&logoColor=F3E3BE)
+![Metasploit](https://img.shields.io/badge/Metasploit-5F735B?style=for-the-badge&logo=metasploit&logoColor=F3E3BE)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-D8B35C?style=for-the-badge&logo=burpsuite&logoColor=2B2118)
+![Gobuster](https://img.shields.io/badge/Gobuster-435844?style=for-the-badge&logo=gnu-bash&logoColor=F3E3BE)
+![FFUF](https://img.shields.io/badge/FFUF-5F735B?style=for-the-badge&logo=gnu-bash&logoColor=F3E3BE)
 
-**Infrastructure**
+**Systems & Scripting**
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-7C3AED?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-4C1D95?style=for-the-badge&logo=powershell&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-6D28D9?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-4C1D95?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-435844?style=for-the-badge&logo=linux&logoColor=F3E3BE)
+![PowerShell](https://img.shields.io/badge/PowerShell-5F735B?style=for-the-badge&logo=powershell&logoColor=F3E3BE)
+![Python](https://img.shields.io/badge/Python-D8B35C?style=for-the-badge&logo=python&logoColor=2B2118)
+![Active Directory](https://img.shields.io/badge/Active_Directory-2B2118?style=for-the-badge&logo=microsoft&logoColor=F3E3BE)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-435844?style=for-the-badge&logo=virtualbox&logoColor=F3E3BE)
 
 **Web & Creative**
 
-![HTML5](https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4C1D95?style=for-the-badge&logo=javascript&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-6D28D9?style=for-the-badge&logo=adobe&logoColor=white)
-
-**Collaboration & Productivity**
-
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-7C3AED?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-4C1D95?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-6D28D9?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-435844?style=for-the-badge&logo=html5&logoColor=F3E3BE)
+![CSS3](https://img.shields.io/badge/CSS3-5F735B?style=for-the-badge&logo=css3&logoColor=F3E3BE)
+![JavaScript](https://img.shields.io/badge/JavaScript-D8B35C?style=for-the-badge&logo=javascript&logoColor=2B2118)
+![WordPress](https://img.shields.io/badge/WordPress-2B2118?style=for-the-badge&logo=wordpress&logoColor=F3E3BE)
 
 ---
 
-## 💼 Experience Highlights
+## 🔬 Hands-On Work
 
-| Role | Company | Highlights |
-|------|---------|------------|
-| 🔍 IT Support Specialist — Fraud & Identity | **USAA** | Phishing site analysis, KYC/IAM, incident response, 5⭐ ratings, top metrics |
-| 🌐 IT Support Technician | **CenturyLink** | 6 years remote, Tier 1/2 support, TCP/IP, network troubleshooting |
-
----
-
-## 🔬 Projects & Labs
-
-- 🛡️ **SIEM Monitoring Lab** — Deployed Wazuh to detect IOCs, triage alerts, and simulate SOC workflows
-- 🔍 **Network Traffic Analysis** — Captured and analyzed packets with Wireshark to identify anomalies
-- 🗺️ **Vulnerability Scanning** — Conducted recon and scanning with Nmap/Zenmap in controlled environments
-- 🌐 **Phishing Site Investigation** — Leveraged web development background to identify spoofed sites during real fraud cases at USAA
-- 🏴 **Hack The Box** — Active CTF participant sharpening offensive and defensive skills
-- 🔓 **NSA Codebreaker Challenge** — Participant in one of the most prestigious student cybersecurity competitions
-
----
-
-## 🌐 Web Projects
-
-| Project | Description |
-|---------|-------------|
-| [charlottesalcedo.com](https://www.charlottesalcedo.com) | Cybersecurity Portfolio & Blog |
-| [graphicdesigner.dev](https://graphicdesigner.dev) | Creative + Tech Portfolio |
-| [photohacklovers.com](https://photohacklovers.com) | Digital assets & creative downloads |
-| [graphicdesigner4hire.com](https://graphicdesigner4hire.com) | Freelance web & design work |
-
+- **WordPress Privacy Hardening**: enumerated a live authorized WordPress target, documented exposure, wrote a hardening plugin, and retested the fixes.
+- **Web Enumeration**: Gobuster, DirBuster, FFUF, WPScan, curl, Burp Suite.
+- **Network Analysis**: Wireshark, tcpdump, Nmap/NSE, service enumeration.
+- **SOC / SIEM Practice**: alert triage, IOC analysis, Wazuh workflows.
+- **CTF Practice**: Hack The Box and authorized cybersecurity labs.
 
 ---
 
@@ -121,40 +95,20 @@ charlotte = {
 
 <div align="center">
 
-![Charlotte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salcedocharlotte&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true)
+![BettyCoder GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettyc0der&show_icons=true&hide_border=false&include_all_commits=true&bg_color=F3E3BE&title_color=435844&text_color=2B2118&icon_color=D8B35C&border_color=5F735B)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salcedocharlotte&layout=compact&theme=midnight-purple&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bettyc0der&layout=compact&hide_border=false&bg_color=F3E3BE&title_color=435844&text_color=2B2118&border_color=5F735B)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=salcedocharlotte&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=salcedocharlotte&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bettyc0der&hide_border=false&background=F3E3BE&border=5F735B&stroke=435844&ring=D8B35C&fire=C45A3D&currStreakNum=2B2118&sideNums=2B2118&currStreakLabel=435844&sideLabels=435844&dates=5F735B)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🤝 Affiliations & Community
-
-- 🔐 **ISC² Member**
-- 👩‍💻 **Women in Cybersecurity (WiCyS)** — WGU Chapter Member
-- 🎓 **WGU Cybersecurity Student Club** — Active Member
-- 🏴 **Hack The Box** — Active CTF Participant
-- 🏛️ **NSA Codebreaker Challenge** Participant
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=salcedocharlotte&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=bettyc0der&color=435844&style=for-the-badge&label=PROFILE+VIEWS)
 
-*💡 "Amateurs hack systems — professionals hack people."*
+**Code secure. Stay curious.**
 
 </div>
