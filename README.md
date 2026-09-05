@@ -7,10 +7,13 @@
 ### Find Me Online
 
 [![Website](https://img.shields.io/badge/WEBSITE-CYBER_BLOG-435844?style=for-the-badge&logo=wordpress&logoColor=F3E3BE)](https://cyber.charlottesalcedo.com/)
-[![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-PROFILE-5F735B?style=for-the-badge&logo=hackthebox&logoColor=F3E3BE)](https://profile.hackthebox.com/profile/019d8634-67a7-71b7-8688-3f17313fa8ee?utm_medium=copy_url)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-BETTYC0DER-D8B35C?style=for-the-badge&logo=tryhackme&logoColor=2B2118)](https://tryhackme.com/p/BETTYC0DER)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-BETTYCODER-2B2118?style=for-the-badge&logo=linkedin&logoColor=F3E3BE)](https://www.linkedin.com/in/bettycoder/)
-[![GitHub](https://img.shields.io/badge/GITHUB-BETTYC0DER-435844?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-@BETTYCODER-5F735B?style=for-the-badge&logo=linkedin&logoColor=F3E3BE)](https://www.linkedin.com/in/bettycoder/)
+[![X](https://img.shields.io/badge/X-@BETTYC0DER-2B2118?style=for-the-badge&logo=x&logoColor=F3E3BE)](https://x.com/bettyc0der)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-@BETTYC0DER-D8B35C?style=for-the-badge&logo=youtube&logoColor=2B2118)](https://www.youtube.com/channel/UCxbBdFzCp9h0_z9vJfbCfTQ)
+
+[![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-BETTYCODER-435844?style=for-the-badge&logo=hackthebox&logoColor=F3E3BE)](https://profile.hackthebox.com/profile/019d8634-67a7-71b7-8688-3f17313fa8ee?utm_medium=copy_url)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-BETTYC0DER-5F735B?style=for-the-badge&logo=tryhackme&logoColor=F3E3BE)](https://tryhackme.com/p/BETTYC0DER)
+[![GitHub](https://img.shields.io/badge/GITHUB-@BETTYC0DER-2B2118?style=for-the-badge&logo=github&logoColor=F3E3BE)](https://github.com/bettyc0der)
 
 </div>
 
@@ -145,6 +148,8 @@ bettycoder = {
 | 🟩 Hack The Box | [BettyCoder HTB Profile](https://profile.hackthebox.com/profile/019d8634-67a7-71b7-8688-3f17313fa8ee?utm_medium=copy_url) |
 | 🔴 TryHackMe | [BETTYC0DER](https://tryhackme.com/p/BETTYC0DER) |
 | 💼 LinkedIn | [BettyCoder](https://www.linkedin.com/in/bettycoder/) |
+| 𝕏 X | [@bettyc0der](https://x.com/bettyc0der) |
+| ▶️ YouTube | [@bettyc0der](https://www.youtube.com/channel/UCxbBdFzCp9h0_z9vJfbCfTQ) |
 | 🐙 GitHub | [@bettyc0der](https://github.com/bettyc0der) |
 
 ---
